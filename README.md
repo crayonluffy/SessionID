@@ -1,1 +1,2 @@
 # SessionID
+For the MainPage, you can use SessionID 1 or 3 to do the testing. For example, you can input 1 or 3 to join and then the files will be download. For the Create, you need to type your username and password to create the room. And then you will get a Session ID back, and the WebView will be Shown. Then you can upload your files to server. And you need to wait for the alert message to indicate that the files have been uploaded successfully.
